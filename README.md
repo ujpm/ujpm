@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ujpm
-- 👀 I’m interested in learning programming 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python projects 
+- 👀 A devloper, ai enthusiast and a lab scientist
+- 🌱 i have nowledge on python. js, css and html
+- currently working in projrcts to revolutionalize the healthcare using AI...
+- 💞️ I’m looking forward to collaborate...
 - 📫 you can reach me via email "uwizeyimanajp2@gmail.com"
 
 <!---
