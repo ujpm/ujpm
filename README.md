@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ujpm
-- 👀 A devloper, ai enthusiast and a lab scientist
-- 🌱 i have nowledge on python. js, css and html
-- currently working in projrcts to revolutionalize the healthcare using AI...
+- 👋 Hi, I’m Jean Pierre
+- 👀 A frontend devloper, ai enthusiast and a lab scientist
+- currently working in projects to revolutionalize the healthcare using AI...
 - 💞️ I’m looking forward to collaborate...
 - 📫 you can reach me via email "uwizeyimanajp2@gmail.com"
 
