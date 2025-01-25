@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jean Pierre
+# 👋 Hi, I’m Jean Pierre "[JP]"
 
 Welcome to my GitHub! 🚀 Here’s a little about me:
 
