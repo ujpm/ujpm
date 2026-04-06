@@ -1,20 +1,29 @@
-# 👋 Hi, I’m Jean Pierre "[JP]"
+# 👋 Hey, I'm JP! 
 
-Welcome to my GitHub! 🚀 Here’s a little about me:
+> ### 🧬 *A lab scientist who loves to code.* 💻
 
-- 👨‍💻 **Frontend Developer** | 💡 **AI Enthusiast** | 🔬 **Lab Scientist**  
-- 🌟 Main passion lies about combining **tech** and **healthcare** to revolutionize clinical research and public health in Africa.  
-- 🛠️ Currently working on projects like **MicroSmart** and **Medimate** to enhance healthcare with AI-driven tools.  
-- 💞️ Always open to **collaborations**
-- 🚀hackathons ethusiast, actively participating in hackathons  
-- 📚 Continuously learning new tech to drive meaningful change.  
+My goal is to write code that makes healthcare smarter, faster, and more accessible.
 
-### 📫 Let’s Connect!  
-Feel free to reach out:  
-📧 Email: [uwizeyimanajp2@gmail.com](mailto:uwizeyimanajp2@gmail.com)  
+### ⚡ Quick Look
+*  **Focusing on:** Health-tech innovations, bioinformatics, and precision medicine.
+*  **Currently learning:** Advanced AI applications in clinical diagnostics (and a little bit of German!).
+*  **Looking to collaborate on:** Open-source bio-innovation, health-tech initiatives, and high-energy hackathons.
+*  **Fun fact:** When I'm not debugging code or looking through a microscope, I'm probably zoning in to some NF🎧.
 
+### 🛠️ My Arsenal
 
-<!---
-ujpm/ujpm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend Development** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Data & Bioinformatics** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+**Core Focus & Hardware** ![AI Diagnostics](https://img.shields.io/badge/AI_Diagnostics-6366f1?style=for-the-badge)
+![Multi-omics](https://img.shields.io/badge/Multi--omics-10b981?style=for-the-badge)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0ea5e9?style=for-the-badge)
+
+📫 **contact 👉:** [Email](mailto:uwizeyimanajp2@gmail.com)
